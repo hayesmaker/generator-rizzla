@@ -4,6 +4,10 @@
 
 ### About
 
+Pixi JS Scaffolding system
+
+Install, make a game directory, and run! That's it!
+
 This is designed to be a really simple way of creating a new html5 game project, with the latest
 tools installed automatically and ready to use.  Perfect for getting started quickly in game jams, or
 you just want an easy life.
