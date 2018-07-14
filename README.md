@@ -4,7 +4,7 @@
 
 This is desigot ned to be a really simple way of creating a new html5 game project, with the latest
 tools installed automatically and ready to use.  Perfect for getting started quickly in game jams, or
-you just want an easy life.\s\s
+you just want an easy life.
 
 Configurations are all included in the scaffold so customise as you like.
 
@@ -38,5 +38,5 @@ save a change in the src folder
 ### Testing
 
 Inside your project just `npm test`
-\s\s
+
 Now make some !tea and *Enjoy!*
