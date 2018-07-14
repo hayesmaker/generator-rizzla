@@ -5,6 +5,8 @@
   "files": [
     "generators"
   ],
+  "license": "MIT",
+  "repository": "github:hayesmaker/rizla",
   "keywords": [
     "yeoman-generator",
     "rizzla",
