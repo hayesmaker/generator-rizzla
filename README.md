@@ -1,5 +1,7 @@
 # rizla
 
+![Monkas Approves Project](https://i.imgur.com/saNTXPD.png)
+
 ### About
 
 This is designed to be a really simple way of creating a new html5 game project, with the latest
