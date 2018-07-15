@@ -27,7 +27,7 @@ module.exports = class extends Generator {
         "babel-preset-env": "^1.7.0",
         "jest": "^23.3.0",
         "jest-canvas-mock": "^1.1.0",
-        "webpack": "^4.15.1",
+        "webpack": "^4.16.0",
         "webpack-cli": "^3.0.8",
         "webpack-dev-server": "^3.1.4",
         "webpack-livereload-plugin": "^2.1.1",
