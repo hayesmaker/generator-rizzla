@@ -23,7 +23,7 @@ Configurations are all included in the scaffold so customise as you like.
 
 ### Install
 
-`npm i -g rizla`
+`npm i -g yo rizla`
 
 ### Usage
 
