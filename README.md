@@ -4,7 +4,7 @@
 
 ### About
 
-Pixi JS Scaffolding system
+Yeoman generator for quickly scaffolding <CANVAS> based HTML5 games or apps.
 
 Install, make a game directory, and run! That's it!
 
@@ -21,9 +21,10 @@ Configurations are all included in the scaffold so customise as you like.
 - Webpack 4 for compiling and hotreloading
 - Jest for unit testing (alternative test tools will be supported)
 
-### Install
+### Install 
+nb. ```yo``` is to install yeoman, you can remove yo if you already have it.
 
-`npm i -g yo rizla`
+`npm i -g generator-rizla yo`
 
 ### Usage
 
