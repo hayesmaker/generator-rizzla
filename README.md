@@ -24,6 +24,10 @@ nb. ```yo``` is to install yeoman, you can remove `yo` from the following comman
 
 `npm i -g generator-rizla yo`
 
+### What do I need installed first?
+
+npm requires nodejs to be installed on your machine.  If the command above doesn't work, it's probably for this reason.  [Go here and get nodejs](https://nodejs.org/en/). npm will be installed automatically alongside.
+
 ### Usage
 
 ```
