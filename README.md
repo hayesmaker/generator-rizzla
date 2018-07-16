@@ -4,9 +4,7 @@
 
 ### About
 
-Yeoman generator for quickly scaffolding <CANVAS> based HTML5 games or apps.
-
-Install, make a game directory, and run! That's it!
+Yeoman generator for quickly scaffolding [CANVAS](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) based HTML5 games or apps.
 
 This is designed to be a really simple way of creating a new html5 game project, with the latest
 tools installed automatically and ready to use.  Perfect for getting started quickly in game jams, or
@@ -22,7 +20,7 @@ Configurations are all included in the scaffold so customise as you like.
 - Jest for unit testing (alternative test tools will be supported)
 
 ### Install 
-nb. ```yo``` is to install yeoman, you can remove yo if you already have it.
+nb. ```yo``` is to install yeoman, you can remove `yo` from the following command if you have installed yeoman already.
 
 `npm i -g generator-rizla yo`
 
