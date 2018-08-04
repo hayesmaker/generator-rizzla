@@ -1,6 +1,6 @@
 {
   "name": "generator-rizla",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "roll your own html5 Pixi based Canvas games",
   "files": [
     "generators"
