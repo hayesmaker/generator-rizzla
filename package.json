@@ -1,12 +1,12 @@
 {
-  "name": "generator-rizla",
+  "name": "generator-rizzla",
   "version": "0.2.0",
   "description": "roll your own html5 Pixi based Canvas games",
   "files": [
     "generators"
   ],
   "license": "MIT",
-  "repository": "github:hayesmaker/rizla",
+  "repository": "github:hayesmaker/generator-rizzla",
   "keywords": [
     "yeoman-generator",
     "rizzla",
