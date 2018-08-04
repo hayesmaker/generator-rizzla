@@ -30,7 +30,7 @@ module.exports = class extends Generator {
         "jest-canvas-mock": "^1.1.0",
         "webpack": "^4.16.0",
         "webpack-cli": "^3.0.8",
-        "webpack-dev-server": "^3.1.4",
+        "webpack-dev-server": "^3.1.5",
         "webpack-livereload-plugin": "^2.1.1",
         "webpack-serve": "^2.0.2"
       },
