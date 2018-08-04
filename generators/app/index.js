@@ -19,7 +19,8 @@ module.exports = class extends Generator {
       "description": "Create a pixi game scaffold courtesy of @hayesmaker64",
       "main": "index.js",
       "dependencies": {
-        "pixi.js": "^4.8.1"
+        "pixi.js": "^4.8.1",
+        "gsap": "^2.0.1"
       },
       "devDependencies": {
         "babel-core": "^6.26.3",
