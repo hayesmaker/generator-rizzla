@@ -35,7 +35,7 @@ mkdir my-game-name
 
 cd my-game-name
 
-yo rizla
+yo rizzla
 
 npm start
 ```
