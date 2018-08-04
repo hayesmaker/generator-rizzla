@@ -1,4 +1,4 @@
-# rizla
+# generator-rizzla
 
 ![Monkas Approves Project](https://i.imgur.com/saNTXPD.png)
 
@@ -22,7 +22,7 @@ Configurations are all included in the scaffold so customise as you like.
 ### Install 
 nb. ```yo``` is to install yeoman, you can remove `yo` from the following command if you have installed yeoman already.
 
-`npm i -g generator-rizla yo`
+`npm i -g generator-rizzla yo`
 
 ### What do I need installed first?
 
