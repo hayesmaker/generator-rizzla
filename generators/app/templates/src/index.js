@@ -16,13 +16,13 @@ export default class PixiLauncher {
     );
     window.document.body.appendChild(this.renderer.view);
     this.stage = new PIXI.Container();
-    let textStr = 'Congratulations you just rolled your own game scaffoled. ${nn} ' +
+    let textStr = 'Congratulations you just rolled your own game scaffold with Rizzla!. ${nn} ' +
       'Default settings: ${n} ' +
       'width: window.innerWidth ${n} ' +
       'height: window.innerHeight ${n} ' +
       'backgroundColor: black ${n} ' +
-      'framework: none ${n} ' +
-      'renderer: pixijs';
+      'renderer: pixijs ${n} ' +
+      'framework: none.';
     let textArr = textStr.split(' ');
     let t, tm, sp;
     let style = new PIXI.TextStyle({fontFamily : 'Arial', fontSize: 24, fill : 0xffffff, align : 'left'});
