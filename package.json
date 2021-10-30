@@ -1,7 +1,7 @@
 {
   "name": "generator-rizzla",
   "version": "0.2.0",
-  "description": "roll your own html5 Pixi based Canvas games",
+  "description": "Quickly roll your own html5 PixiJS based Canvas games and apps",
   "files": [
     "generators"
   ],
@@ -10,13 +10,15 @@
   "keywords": [
     "yeoman-generator",
     "rizzla",
-    "pixi games",
+    "pixijs",
+    "pixijs games",
+    "pixijs app",
     "html5 games",
     "game jam",
     "game scaffold",
     "create pixi app"
   ],
   "dependencies": {
-    "yeoman-generator": "^3.0.0"
+    "yeoman-generator": "^3.2.0"
   }
 }
