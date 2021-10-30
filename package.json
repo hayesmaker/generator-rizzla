@@ -1,6 +1,6 @@
 {
   "name": "generator-rizzla",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "Quickly roll your own html5 PixiJS based Canvas games and apps",
   "files": [
     "generators"
