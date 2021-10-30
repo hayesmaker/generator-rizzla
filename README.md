@@ -15,9 +15,9 @@ Configurations are all included in the scaffold so customise as you like.
 
 ### Features
 
-- [PixiJS v4](http://www.pixijs.com/) Canvas and WEBGL Rendering Engine 
+- [PixiJS v6](http://www.pixijs.com/) Canvas and WEBGL Rendering Engine 
 - [Babel](https://babeljs.io/) for compiling ES6 niceness and JS modules back to ES5 which browsers can run. 
-- [Webpack 4](https://webpack.js.org/) for bundling code and assets and hot reloads (hot reloading is as cool as it sounds)
+- [Parcel v2](https://parceljs.org/) The zero configuration build tool including hot reload
 - [Jest](https://jestjs.io/) for delightful unit testing.  Machete Don't test? He really really should, and so should you!
 
 ### Install 
@@ -33,17 +33,19 @@ npm requires nodejs to be installed on your machine.  If the command above doesn
 ### Usage
 
 ```
-mkdir my-game-name
+mkdir your-app-name
 
-cd my-game-name
+cd your-app-name
 
 yo rizzla
+
+npm run build
 
 npm start
 ```
 
-Your new game will scaffold will automatically build and launch in your default browser and will hot reload whenever you
-save a change in the src folder
+Your new game will scaffold will automatically build and launch in your default browser 
+and will hot reload whenever you save a change in the src folder
 
 
 ### Testing
